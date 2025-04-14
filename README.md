@@ -2,7 +2,7 @@
 This folder contains code to estimate multinomial logit model (MNL) and the sequential sampling models (SSMs) 
 adopted in the paper "Can Decoy Effects Nudge Ride-hailing Drivers’ Preferences for Electric Vehicles" 
 
-We show the simulation, likelihood-based estimation, and likelihood recovery of MNL, multi-attribute decision field theory (MDFT), multi-alterative decision by sampling model(MDbS), and revised MDbS.
+We show the simulation, likelihood-based estimation, and likelihood recovery of MNL, multi-alterative decision field theory (MDFT), multi-alterative decision by sampling model(MDbS), and revised MDbS.
 
 ###estimation##
 Revised MDbS.py: Simulation and likelihood-based estimation of the revised MDbS model that reflects how respondents weigh various attributes and accounts for the inherent inclination toward alternatives
